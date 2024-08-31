@@ -9,4 +9,4 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
 <img align="center" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=marcusluccas&show_icons=true&theme=tokyonight">
-<img align="center" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusluccas&layout=normal&langs_count=5&theme=merko&custom_title="vinix_dev">
+<img align="center" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusluccas&layout=normal&langs_count=5&theme=tokyonight&custom_title="vinix_dev">
