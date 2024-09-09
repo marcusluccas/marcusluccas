@@ -11,6 +11,7 @@
   <img style="width: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </div>
 <br>
-<div style="display: inline_block">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusluccas&layout=normal&langs_count=5&theme=tokyonight&custom_title="vinix_dev">
-</div>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=marcusluccas&theme=radical&mode=weekly" />
+<img width=40% align="left" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=marcusluccas&show_icons=true&theme=radical&layout=compact" />
+ </div
